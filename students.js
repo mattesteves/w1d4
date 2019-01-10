@@ -21,7 +21,7 @@ var newArr2= students.sort(function(a,b)
   			return 1
   		}
   		if (b.age > a.age){
-  			return -1
+  		return -1
   		}
   	};
 });
